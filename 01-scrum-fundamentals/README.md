@@ -7,4 +7,4 @@
 💡 **Real-World Example:**  
 At **XYZ Tech**, we adopted Scrum to manage our software projects. By implementing 2-week sprints and daily stand-ups, we improved collaboration and delivered features faster.  
 
-📖 [Detailed Notes](./notes.md)  
+📖 [Detailed Notes](./overview/notes.md)  
